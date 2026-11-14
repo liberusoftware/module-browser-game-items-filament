@@ -3,7 +3,7 @@
   "name": "browser-game-items-filament",
   "display_name": "Browser Game Items Filament",
   "description": "Filament 5 items catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\ItemsFilament\\ItemsFilamentServiceProvider",
   "requires": {
